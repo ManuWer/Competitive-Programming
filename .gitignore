@@ -40,6 +40,6 @@
 !.vscode/extensions.json
 *.code-workspace
 
-# VSCodePatch
+# VSCode Patch
 # Ignore all local history of files
 .history
